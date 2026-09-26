@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+campus_assistant.log
+data/test_*.json
+.DS_Store
