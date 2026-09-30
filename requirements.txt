@@ -1,4 +1,0 @@
-# No external dependencies.
-# This project only uses Python's standard library:
-# json, os, datetime, and unittest (for the tests).
-# Nothing to install with pip.
