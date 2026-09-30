@@ -1,0 +1,20 @@
+[
+  {
+    "semester": "3",
+    "subject": "kanjbs",
+    "credits": 4.0,
+    "grade": "F"
+  },
+  {
+    "semester": "1",
+    "subject": "Calculus",
+    "credits": 4.0,
+    "grade": "O"
+  },
+  {
+    "semester": "1",
+    "subject": "Cse",
+    "credits": 4.0,
+    "grade": "A+"
+  }
+]

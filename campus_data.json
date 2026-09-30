@@ -1,0 +1,61 @@
+{
+  "departments": [
+    {
+      "name": "Computer Science & Engineering",
+      "hod": "Dr. R. Menon"
+    },
+    {
+      "name": "Electronics & Communication",
+      "hod": "Dr. S. Iyer"
+    },
+    {
+      "name": "Mechanical Engineering",
+      "hod": "Dr. A. Kulkarni"
+    }
+  ],
+  "faculty": [
+    {
+      "name": "Dr. R. Menon",
+      "department": "Computer Science & Engineering",
+      "subject": "Data Structures",
+      "email": "r.menon@campus.edu"
+    },
+    {
+      "name": "Prof. N. Sharma",
+      "department": "Computer Science & Engineering",
+      "subject": "Database Systems",
+      "email": "n.sharma@campus.edu"
+    }
+  ],
+  "facilities": [
+    {
+      "name": "Central Library",
+      "info": "Open 8 AM - 9 PM, weekdays. 6 PM close on Sundays."
+    },
+    {
+      "name": "Main Canteen",
+      "info": "Breakfast 7:30-9:30, Lunch 12-2:30, Dinner 7-9."
+    },
+    {
+      "name": "Sports Complex",
+      "info": "Badminton courts open 6-8 AM and 4-7 PM."
+    }
+  ],
+  "events": [
+    {
+      "title": "Tech Fest - CodeSprint",
+      "date": "10-10-2026",
+      "description": "24 hour hackathon, teams of 3-4."
+    },
+    {
+      "title": "Semester End Exams Begin",
+      "date": "01-12-2026",
+      "description": "Check exam cell notice for hall tickets."
+    },
+    {
+      "title": "5",
+      "date": "3",
+      "description": "1"
+    }
+  ]
+}
