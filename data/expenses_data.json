@@ -1,0 +1,14 @@
+[
+  {
+    "amount": 2000.0,
+    "category": "Food",
+    "note": "Feeling hungry",
+    "date": "26-09-2026"
+  },
+  {
+    "amount": 3000.0,
+    "category": "Books",
+    "note": "Study purpose.",
+    "date": "26-09-2026"
+  }
+]
